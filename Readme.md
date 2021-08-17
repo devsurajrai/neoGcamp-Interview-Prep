@@ -1,1 +1,1 @@
-# This repo contains Interview practice questions for neoGcamp
+# This repo contains Interview practice questions for neoGcamp.
