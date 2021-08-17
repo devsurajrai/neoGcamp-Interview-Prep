@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0
+}
+body{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  padding:200px;
+}
+.loading{
+  margin-top:50px;
+  font-size: 35px;
+  padding:30px
+}
+.loaded-btn{
+width:100px;
+  padding:20px;
+  border-radius: 10px;
+  border:none
+}
+.visibility-hidden{
+  visibility:hidden
+}
