@@ -1,0 +1,28 @@
+:root {
+  --primary-color: red;
+  --secondary-color: green
+}
+
+h1 {
+  color: var(--primary-color)
+}
+
+h2 {
+  color: var(--secondary-color)
+}
+
+#button-1 {
+  width: 100px;
+  height: 30px;
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 10px;
+}
+
+#button-2 {
+  width: 100px;
+  height: 30px;
+  border: 2px solid var(--primary-color);
+  border-radius: 10px;
+  background-color: white;
+}
